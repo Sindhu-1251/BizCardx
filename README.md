@@ -48,4 +48,4 @@ pip install streamlit_option_menu
 
 6. **Display and Store Information**: Extracted information is displayed on the screen and stored in the MySQL database.
 
-7. **Database Operations**: Use the provided options in the Streamlit interface to view, update, or analyze the extracted data stored in the database.
+7. **Database Operations**: Use the provided options in the Streamlit interface to view, update, dalete or analyze the extracted data stored in the database.
