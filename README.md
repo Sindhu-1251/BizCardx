@@ -38,7 +38,7 @@ pip install streamlit_option_menu
     streamlit run bizcard.py
     ```
     
-2. **Access the application** Clone the repository: git clone \\\ Run the Streamlit app: streamlit run Bizcardx.py Access the app in your browser at (http://localhost:8502).
+2. **Access the application** Clone the repository: git clone (https://github.com/Sindhu-1251/BizCardx) Run the Streamlit app: streamlit run Bizcardx.py Access the app in your browser at (http://localhost:8502).
 
 3. **Upload a business card image** to extract information.
 
